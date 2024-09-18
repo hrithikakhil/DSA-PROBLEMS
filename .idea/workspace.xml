@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b3eaaa1-97f9-4930-a87e-7797b9ab0d02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/CoinChangeIIL518.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/CoinChangeL322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/HouseRobberL198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestCommonSubsequenceL1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestIncreasingSubsequenceL300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaxProductSubarrayL152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinPathFallingSumL931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinPathSumL64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/RodCuttingGFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/TargetSumL494.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/TriangleSumL120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/UnboundedKnapsackGFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/UniquePathsIIL63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/UniquePathsL62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/NQueensL51.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
