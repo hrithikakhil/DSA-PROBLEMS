@@ -25,3 +25,7 @@ public class FruitIntoBaskets_904{
         return maxLen;
     }
 }
+/*
+Variable Window Size Pattern
+Nothing but Find the longest continous subarray with only 2 distinct elements
+*/
