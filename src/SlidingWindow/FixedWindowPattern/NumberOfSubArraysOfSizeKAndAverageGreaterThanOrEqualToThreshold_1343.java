@@ -1,6 +1,6 @@
 package SlidingWindow.FixedWindowPattern;
 
-class NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold_1343 {
+public class NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold_1343 {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
         int n = arr.length;
 
@@ -28,7 +28,7 @@ class NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold_1343 {
 }
 
 /*
-Fixed window pattern 
+Fixed window pattern
 You dont have to really calculate avg, just observe the arr size is fixed and theres threshold, basically
 (sum_val)/arr_size >= threshold
 rearrange => sum_val >= arr_size * threshold
