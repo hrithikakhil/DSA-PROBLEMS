@@ -1,6 +1,6 @@
 package SlidingWindow;
 
-public class AlternatingGroupsII {
+public class AlternatingGroupsII_3208 {
     public int numberOfAlternatingGroups(int[] colors, int k) {
 
         int n = colors.length;
